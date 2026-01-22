@@ -2,7 +2,7 @@
 
 <p align="center">
 💻 <strong></strong>Full Stack Web Developer</strong><br/>  
-🚀 Next.js | React | Prisma | Tailwind CSS<br/>  
+🚀 Next.js | Nest.js | React | Prisma | Tailwind CSS<br/>  
 🌱 Currently learning advanced system architecture 
 </p>
 
