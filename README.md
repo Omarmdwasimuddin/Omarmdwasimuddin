@@ -6,6 +6,8 @@
 🌱 Currently learning advanced system architecture 
 </p>
 
+---
+
 ## 🔧 Tech Stack
 - JavaScript / TypeScript
 - Next.js (App Router)
