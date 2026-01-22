@@ -16,11 +16,13 @@
 - Prisma, PostgreSQL, MySQL
 - Tailwind CSS
 - Docker & Git
+---
 
 ## 📌 Current Focus
 - SaaS MVP development
 - API design & authentication
 - Performance optimization
+---
 
 ## 🌐 Connect with Me
 - GitHub: https://github.com/Omarmdwasimuddin
