@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Muhammad Wasim Uddin Omar
+<h1 align="center">👋 Hi, I'm Muhammad Wasim Uddin Omar</h1>
 
-💻 Full Stack Web Developer  
-🚀 Next.js | React | Prisma | Tailwind CSS  
-🌱 Currently learning advanced system architecture  
+<p align="center">
+💻 <strong></strong>Full Stack Web Developer</strong><br/>  
+🚀 Next.js | React | Prisma | Tailwind CSS<br/>  
+🌱 Currently learning advanced system architecture 
+</p>
 
 ## 🔧 Tech Stack
 - JavaScript / TypeScript
