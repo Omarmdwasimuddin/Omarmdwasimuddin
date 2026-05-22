@@ -79,7 +79,7 @@ const wasim = {
 
 <div align="center">
 
-<img src="https://github-readme-stats-ten-virid-28.vercel.app/api?username=Omarmdwasimuddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats-ten-virid-28.vercel.app/api?username=Omarmdwasimuddin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true&include_all_commits=true" height="165" />
 <img src="https://github-readme-stats-ten-virid-28.vercel.app/api/top-langs/?username=Omarmdwasimuddin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" height="165" />
 
 <br/>
